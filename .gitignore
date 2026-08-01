@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# MongoDB database files (if any)
+*.wt
+*.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+data/
